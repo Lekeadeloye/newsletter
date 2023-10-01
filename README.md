@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Lekeadeloye/newsletter.git)
-- Live Site URL: [Add live site URL here]( https://lekeadeloye.github.io/newsletter/)
+- Solution URL: [https://github.com/Lekeadeloye/newsletter.git](https://github.com/Lekeadeloye/newsletter.git)
+- Live Site URL: [https://lekeadeloye.github.io/newsletter/]( https://lekeadeloye.github.io/newsletter/)
 
 ## My process
 
